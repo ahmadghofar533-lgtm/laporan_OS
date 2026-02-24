@@ -99,7 +99,7 @@ jawaban
 
  3. kemudian jalankan (sudo apt install neofetch )
 
- 4. 
+ 4. l
 
 
 
