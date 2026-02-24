@@ -18,7 +18,7 @@ menjelaskan langkah-langkah instal ubuntu di VisualBox agar mudah di pahami
 
 ## 1.10.1 Latihan K onseptual 
 ### latihan 1.1
-jawaban
+
 1. manajement sumber daya
 
     windows : mengatur penggunaan cpu dan ram agar berjalan lancar
@@ -99,9 +99,47 @@ jawaban
 
  3. kemudian jalankan (sudo apt install neofetch )
 
- 4. l
+ 4. ketik dan jalankan neofetch 
+    ![ubuntu4_latihan1.4](image/ubuntu4_latihan1.4.png)
 
+ 5. check disk dengan df -h 
+    ![ubuntu5_latihan1.4](image/ubuntu5_latihan1.4.png)
+ 
+ 6. check memory dengan free -h
+  ![ubuntu6_latihan1.4](image/ubuntu6_latihan1.4.png)
 
+ ### latihan 1.5
+ setelah instalasi ubuntu server lalu lakukan 
+
+ 1. Tampilkan informasi OS : cat /etc/os-release
+  ![ubuntu1_latihan1.5](image/ubuntu1_latihan1.5.png)
+
+ 2. Tampilkan versi kenel : uname -r
+  ![ubuntu2_latihan1.5](image/ubuntu2_latihan1.5.png)
+
+ 3. list partisi : lsblk 
+  ![ubuntu3_latihan1.5](image/ubuntu3_latihan1.5.png)
+ 
+ 4. check network connectivity : ping -c 4 google.com
+   ![ubuntu4_latihan1.5](image/ubuntu4_latihan1.5.png)
+
+ 5. install dan jelaskan (htop) untuk melihhat resource usage
+   ![ubuntu5_latihan1.5](image/ubuntu5_latihan1.5.png) 
+
+## 1.10.3. latihan refleksi
+### latihan 1.6
+
+ 1. sistem operasi yang saya gunakan adalah windows 
+
+ 2. selama 6 bulan 
+
+ 3. untuk keperluan seperti gaming lebih nyaman dan efisien
+
+ 4. banyak update 
+
+ 5. baru-baru ini saya menggunakan perangkat lain seperti linux dan saya masih kurang mengerti cara kerja linux
+
+ 6. saya ingin untuk mempelajari linux, karena terlihat menarik serta penasaran   
 
 
 
