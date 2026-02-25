@@ -233,9 +233,16 @@ berikut cara mengecheck fitur-fitur yang ada di dalam ubuntu
       
       UUID : b2598606-4e20-977a-2ee01bdd22e0
 
- 2.C 
+ 2.C ![ubuntu2.C_1.9latihan](image/ubuntu2.C_1.9latihan.png)
 
- 2.D
+ 2.D ![ubuntu2.D_1.9latihan](image/ubuntu2.D_1.9latihan.png)
+
+ 2.E ![1ubuntu2.E_1.9latihan](image/1ubuntu2.E_1.9latihan.png)
+     ![2ubuntu2.E_1.9latihan](image/2ubuntu2.E_1.9latihan.png)
+
+ 2.F ![ubuntu2.F_1.9latihan](image/ubuntu2.F_1.9latihan.png)
+
+ 2.G ![ubuntu2.G_1.9latihan](image/ubuntu2.G_1.9latihan.png)
 
 
 
