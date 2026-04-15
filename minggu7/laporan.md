@@ -107,4 +107,76 @@ tujuan : membuat perintah administrasi sederhana yang bisa di panggil dari mana 
 
 ## Praktikum 6.9 - Menggunakan completion dasar dan melihat history
 
-1. 
+1. pastikan file contoh tersedia:
+![LP1_praktikum6.9](image/LP1_praktikum6.9.png)
+
+2. uji completion file:
+![LP3_praktikum6.9](image/LP2_praktikum6.9.png)
+
+3. jalankan beberapa perintah sederhana:
+![LP3_praktikum6.9](image/LP3_praktikum6.9.png)
+
+## Prkatikum 6.10 - Menelusuri perintah diagnostik dengan history
+
+1. jalankan beberapa perintah diagnostik
+![LP2_praktikum6.10](image/LP2_praktikum6.10.png)
+
+2. cari ualng petunjuk diagnostik dari history:
+![LP2_praktikum6.10](image/LP2_praktikum6.10.png)
+
+3. jalankan ulang salah saru perintah berdasarkan nomor history:
+![LP3_praktikum6.10](image/LP3_praktikum6.10.png)
+
+4. simpan potongan history file dokumentasi:
+![LP4_praktikum6.10](image/LP4_praktikum6.10.png)
+
+## Praktikum 6.11 - Mencoba wildcard dasar 
+
+1. masuk ke directory sampel 
+![LP1_praktikum6.10](image/LP1_praktikum6.11.png)
+
+2. coba beberapa pola wildcard:
+![LP2_praktikum6.11](image/LP2_praktikum6.11.png)
+
+3. coba beberapa ekspansi lain:
+![LP3_praktikum6.10](image/LP3_praktikum6.11.png)
+
+## Praktikum 6.12 - Mengarsipkan banyak log sekaligus 
+
+1. siapkan file log tambahan:
+![LP1_praktikum6.12](image/LP1_praktikum6.12.png)
+
+2. preview file yang akan di proses:
+![LP2_praktikum6.12](image/LP2_praktikum6.12.png)
+
+3. pindahkan semua file log ke folder arsip:
+![LP3_praktikum6.12](image/LP3_praktikum6.12.png)
+
+4. kompres folder arsip:
+![LP4_praktikum6.12](image/LP4_praktikum6.12.png)
+
+## Praktikum 6.13 - Membedakan single quote, double quote, dan escape
+
+1. uji single quote dan double quote:
+![LP1_praktikum6.13](image/LP1_praktikum6.13.png)
+
+2. uji escape karakter spasi:
+![LP2_praktikum6.13](image/LP2_praktikum6.13.png)
+
+3. uji akses file yang sama dengan double quote:
+![LP3_praktikum6.13](image/LP3_praktikum6.13.png)
+
+##  Praktikum 6.14 - Menangani file dengan nama sulit secra aman
+
+1. pastikan file target tersedia:
+![LP1_praktikum6.14](image/LP1_praktikum6.14.png)
+
+2. salin file dengan nama komples ke folder backup:
+![LP2_praktikum6.14](image/LP2_praktikum6.14.png)
+
+3. gunakan variabel untuk memproses path dengan aman:
+![LP3_praktikum6.14](image/LP3_praktikum6.14.png)
+
+4. tampilkan daftar file hasil backup:
+![LP4_praktikum6.14](image/LP4_praktikum6.14.png)
+
